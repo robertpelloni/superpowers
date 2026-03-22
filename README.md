@@ -100,9 +100,8 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 ### Skills Library
 
 **Testing**
-- **test-driven-development** - RED-GREEN-REFACTOR cycle
+- **test-driven-development** - RED-GREEN-REFACTOR cycle (includes anti-patterns reference)
 - **condition-based-waiting** - Async test patterns
-- **testing-anti-patterns** - Common pitfalls to avoid
 
 **Debugging** 
 - **systematic-debugging** - 4-phase root cause process
@@ -121,9 +120,8 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 - **finishing-a-development-branch** - Merge/PR decision workflow
 - **subagent-driven-development** - Fast iteration with quality gates
 
-**Meta** 
-- **writing-skills** - Create new skills following best practices
-- **testing-skills-with-subagents** - Validate skill quality
+**Meta**
+- **writing-skills** - Create new skills following best practices (includes testing methodology)
 - **using-superpowers** - Introduction to the skills system
 
 ## Philosophy
@@ -141,9 +139,8 @@ Skills live directly in this repository. To contribute:
 
 1. Fork the repository
 2. Create a branch for your skill
-3. Follow the `writing-skills` skill for creating new skills
-4. Use the `testing-skills-with-subagents` skill to validate quality
-5. Submit a PR
+3. Follow the `writing-skills` skill for creating and testing new skills
+4. Submit a PR
 
 See `skills/writing-skills/SKILL.md` for the complete guide.
 
